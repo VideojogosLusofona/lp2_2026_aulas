@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CatFromLastWeek/CatFromLastWeek.csproj" />
+  <Project Path="ClassVsStruct/ClassVsStruct.csproj" />
+  <Project Path="GameUnits/GameUnits.csproj" />
+  <Project Path="OverrideVsNew/OverrideVsNew.csproj" />
+  <Project Path="Polimorfismo/Polimorfismo.csproj" />
+</Solution>
