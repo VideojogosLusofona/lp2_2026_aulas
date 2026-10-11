@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="BuildingCollections/BuildingCollections.csproj" />
+  <Project Path="CityManager1/CityManager1.csproj" />
+  <Project Path="CityManager2/CityManager2.csproj" />
+  <Project Path="CityManager3/CityManager3.csproj" />
+  <Project Path="CityManager4/CityManager4.csproj" />
+  <Project Path="GameInterfaces/GameInterfaces.csproj" />
+  <Project Path="HashBuildings/HashBuildings.csproj" />
+  <Project Path="MyGenericMethod/MyGenericMethod.csproj" />
+  <Project Path="Podium/Podium.csproj" />
+</Solution>
